@@ -1,1 +1,1 @@
-##This is a very simple countdown app
+This is a very simple countdown app
